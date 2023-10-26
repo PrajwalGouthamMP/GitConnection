@@ -3,3 +3,6 @@ Ball
 Cat 
 Dog 
 Elephant
+Fish 
+Goat
+Hen
