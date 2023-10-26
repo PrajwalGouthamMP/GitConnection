@@ -3,10 +3,11 @@ Ball
 Cat 
 Dog 
 Elephant
-Fogg
+Fish 
+Goat
 Hat
 Ink
-Jug
-King
+Jam
+Kite
 Lion
 
