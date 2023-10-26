@@ -3,3 +3,7 @@ Ball
 Cat 
 Dog 
 Elephant
+Fogg
+Hat
+Ink
+Jam
