@@ -8,4 +8,6 @@ Goat
 Hat
 Ink
 Jam
+Kite
+Lion
 
