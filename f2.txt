@@ -6,4 +6,7 @@ Elephant
 Fogg
 Hat
 Ink
-Jam
+Jug
+King
+Lion
+
