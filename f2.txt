@@ -5,6 +5,7 @@ Dog
 Elephant
 Fish 
 Goat
-Hen
-Ice-Cream
-Jug
+Hat
+Ink
+Jam
+
