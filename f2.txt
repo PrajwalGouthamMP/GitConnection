@@ -6,3 +6,5 @@ Elephant
 Fish 
 Goat
 Hen
+Ice-Cream
+Jug
